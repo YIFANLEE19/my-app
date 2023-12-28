@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "category": "Underweight",
+        "bmi": "<18.5"
+    },
+    {
+        "id": 2,
+        "category": "Normal",
+        "bmi": "18.5-24.9"
+    },
+    {
+        "id": 3,
+        "category": "Overweight",
+        "bmi": "25.0-29.9"
+    },
+    {
+        "id": 4,
+        "category": "Obesity class I",
+        "bmi": "30.0-34.9"
+    },
+    {
+        "id": 5,
+        "category": "Obesity class II",
+        "bmi": "35.0-39.9"
+    },
+    {
+        "id": 6,
+        "category": "Obesity class III",
+        "bmi": ">40"
+    }
+]
